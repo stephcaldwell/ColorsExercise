@@ -1,0 +1,44 @@
+h1 {
+    color: red;
+    background-color: violet
+}
+
+h2 {
+    color: #e0510f;
+    background-color: indigo
+}
+
+h3 {
+    color: #d6be54;
+    background-color: blue
+}
+
+h4 {
+    color: rgba(11, 214, 21, 1);
+    background-color: greenyellow
+}
+
+h5 {
+    color: blue;
+    background-color: yellow
+}
+
+h6 {
+    color: indigo;
+    background-color: orange
+}
+
+p {
+    color: violet;
+    background-color: red
+}
+
+li {
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+}
+
+li:nth-last-child(2) {
+    border: none
+}
